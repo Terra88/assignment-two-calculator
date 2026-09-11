@@ -1,4 +1,4 @@
-//made by Tero Heikkinen
+//made by Tero H
 use std::io::{self, Write};
 //math functions
 fn add(a: f64, b: f64) -> f64 {
