@@ -11,3 +11,5 @@ Assignment-two-Calculator
 -Had to seek assistance from the web/ai for formatting inputs/Outputs correctly."<br>
 -Since you can ask for i32 "Select from 1-5: " and have a math equation of "f64 0.0 + 0.1"<br>
 -Also the io::stdin / io::stdout commands, needed some assistanse with these, but IDE suggested them mostly correct way.<br>
+<br>
+Tero.H
